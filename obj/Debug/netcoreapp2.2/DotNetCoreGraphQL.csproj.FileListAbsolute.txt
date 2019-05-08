@@ -1,0 +1,14 @@
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/bin/Debug/netcoreapp2.2/DotNetCoreGraphQL.deps.json
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/bin/Debug/netcoreapp2.2/DotNetCoreGraphQL.runtimeconfig.json
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/bin/Debug/netcoreapp2.2/DotNetCoreGraphQL.runtimeconfig.dev.json
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/bin/Debug/netcoreapp2.2/DotNetCoreGraphQL.dll
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/bin/Debug/netcoreapp2.2/DotNetCoreGraphQL.pdb
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.csprojAssemblyReference.cache
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.csproj.CoreCompileInputs.cache
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.RazorAssemblyInfo.cache
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.RazorAssemblyInfo.cs
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.AssemblyInfoInputs.cache
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.AssemblyInfo.cs
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.RazorTargetAssemblyInfo.cache
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.dll
+/Users/leopham/Desktop/dotnetcore/DotNetCoreGraphQL/obj/Debug/netcoreapp2.2/DotNetCoreGraphQL.pdb
